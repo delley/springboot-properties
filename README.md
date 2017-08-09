@@ -1,2 +1,2 @@
-# Miniblog
-Miniblog usando Spark Framework, FreeMarker e MongoDB
+# Spring Boot Properties
+Lista de propriedades do Spring Boot
